@@ -1,0 +1,523 @@
+#EXTM3U
+#EXTINF:-1,## UHD 4K Devices Only ##
+http://62.138.14.206:25461/live/t2k/165587/91.m3u8
+#EXTINF:-1,Sky Sports Main Event UHD
+http://62.138.14.206:25461/live/t2k/165587/1.m3u8
+#EXTINF:-1,Sky Sports Main Event UHD*
+http://62.138.14.206:25461/live/t2k/165587/260.m3u8
+#EXTINF:-1,Sky Sports F1 UHD
+http://62.138.14.206:25461/live/t2k/165587/4.m3u8
+#EXTINF:-1,Sky Sports F1 UHD*
+http://62.138.14.206:25461/live/t2k/165587/261.m3u8
+#EXTINF:-1,TNT Sports UHD
+http://62.138.14.206:25461/live/t2k/165587/2.m3u8
+#EXTINF:-1,TNT Sports UHD*
+http://62.138.14.206:25461/live/t2k/165587/262.m3u8
+#EXTINF:-1,Hub Sports UHD
+http://62.138.14.206:25461/live/t2k/165587/3.m3u8
+#EXTINF:-1,Astro Sports UHD
+http://62.138.14.206:25461/live/t2k/165587/263.m3u8
+#EXTINF:-1,V Sport Ultra HD
+http://62.138.14.206:25461/live/t2k/165587/264.m3u8
+#EXTINF:-1,IRIB UHD
+http://62.138.14.206:25461/live/t2k/165587/265.m3u8
+#EXTINF:-1,## UK Sports & Football ##
+http://62.138.14.206:25461/live/t2k/165587/92.m3u8
+#EXTINF:-1,Sky Sports Main Event HD
+http://62.138.14.206:25461/live/t2k/165587/45.m3u8
+#EXTINF:-1,Sky Sports Premier League (CD)
+http://62.138.14.206:25461/live/t2k/165587/78.m3u8
+#EXTINF:-1,Sky Sports Football (CD)
+http://62.138.14.206:25461/live/t2k/165587/79.m3u8
+#EXTINF:-1,Sky Sports Football HD
+http://62.138.14.206:25461/live/t2k/165587/44.m3u8
+#EXTINF:-1,Sky Sports Football
+http://62.138.14.206:25461/live/t2k/165587/117.m3u8
+#EXTINF:-1,Sky Sports Mix (CD)
+http://62.138.14.206:25461/live/t2k/165587/80.m3u8
+#EXTINF:-1,Sky Sports Action
+http://62.138.14.206:25461/live/t2k/165587/113.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://62.138.14.206:25461/live/t2k/165587/114.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://62.138.14.206:25461/live/t2k/165587/115.m3u8
+#EXTINF:-1,Sky Sports F1
+http://62.138.14.206:25461/live/t2k/165587/116.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://62.138.14.206:25461/live/t2k/165587/118.m3u8
+#EXTINF:-1,Sky Sports News
+http://62.138.14.206:25461/live/t2k/165587/119.m3u8
+#EXTINF:-1,Sky Sports Racing
+http://62.138.14.206:25461/live/t2k/165587/120.m3u8
+#EXTINF:-1,TNT Sports 1 FHD
+http://62.138.14.206:25461/live/t2k/165587/46.m3u8
+#EXTINF:-1,TNT Sports 1 (CD)
+http://62.138.14.206:25461/live/t2k/165587/81.m3u8
+#EXTINF:-1,TNT Sports 2 FHD
+http://62.138.14.206:25461/live/t2k/165587/47.m3u8
+#EXTINF:-1,TNT Sports 2 (CD)
+http://62.138.14.206:25461/live/t2k/165587/82.m3u8
+#EXTINF:-1,TNT Sports 3 FHD
+http://62.138.14.206:25461/live/t2k/165587/48.m3u8
+#EXTINF:-1,TNT Sports 3 (CD)
+http://62.138.14.206:25461/live/t2k/165587/83.m3u8
+#EXTINF:-1,TNT Sports 3 (L)
+http://62.138.14.206:25461/live/t2k/165587/77.m3u8
+#EXTINF:-1,TNT Sports 4 (CD)
+http://62.138.14.206:25461/live/t2k/165587/84.m3u8
+#EXTINF:-1,TNT Sports 5 (CD)
+http://62.138.14.206:25461/live/t2k/165587/85.m3u8
+#EXTINF:-1,TNT Sports 6 (CD)
+http://62.138.14.206:25461/live/t2k/165587/86.m3u8
+#EXTINF:-1,TNT Sports 7 (CD)
+http://62.138.14.206:25461/live/t2k/165587/87.m3u8
+#EXTINF:-1,TNT Sports 8 (CD)
+http://62.138.14.206:25461/live/t2k/165587/88.m3u8
+#EXTINF:-1,TNT Sports 9 (CD)
+http://62.138.14.206:25461/live/t2k/165587/89.m3u8
+#EXTINF:-1,TNT Sports 10 (CD)
+http://62.138.14.206:25461/live/t2k/165587/90.m3u8
+#EXTINF:-1,Premier Sports 1
+http://62.138.14.206:25461/live/t2k/165587/121.m3u8
+#EXTINF:-1,Premier Sports 2
+http://62.138.14.206:25461/live/t2k/165587/122.m3u8
+#EXTINF:-1,At The Races
+http://62.138.14.206:25461/live/t2k/165587/123.m3u8
+#EXTINF:-1,Box Nation
+http://62.138.14.206:25461/live/t2k/165587/124.m3u8
+#EXTINF:-1,Eir Sport 1
+http://62.138.14.206:25461/live/t2k/165587/125.m3u8
+#EXTINF:-1,Eir Sport 2
+http://62.138.14.206:25461/live/t2k/165587/126.m3u8
+#EXTINF:-1,EuroSport 1
+http://62.138.14.206:25461/live/t2k/165587/127.m3u8
+#EXTINF:-1,EuroSport 2
+http://62.138.14.206:25461/live/t2k/165587/128.m3u8
+#EXTINF:-1,Chelsea TV
+http://62.138.14.206:25461/live/t2k/165587/129.m3u8
+#EXTINF:-1,LFC TV
+http://62.138.14.206:25461/live/t2k/165587/130.m3u8
+#EXTINF:-1,MUTV
+http://62.138.14.206:25461/live/t2k/165587/131.m3u8
+#EXTINF:-1,Free Sports
+http://62.138.14.206:25461/live/t2k/165587/132.m3u8
+#EXTINF:-1,## Sky Movies ##
+http://62.138.14.206:25461/live/t2k/165587/105.m3u8
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://62.138.14.206:25461/live/t2k/165587/94.m3u8
+#EXTINF:-1,Sky Cinema Animation
+http://62.138.14.206:25461/live/t2k/165587/95.m3u8
+#EXTINF:-1,Sky Cinema Comedy
+http://62.138.14.206:25461/live/t2k/165587/96.m3u8
+#EXTINF:-1,Sky Cinema Drama
+http://62.138.14.206:25461/live/t2k/165587/97.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://62.138.14.206:25461/live/t2k/165587/98.m3u8
+#EXTINF:-1,Sky Cinema Gangsters
+http://62.138.14.206:25461/live/t2k/165587/99.m3u8
+#EXTINF:-1,Sky Cinema Greats
+http://62.138.14.206:25461/live/t2k/165587/100.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://62.138.14.206:25461/live/t2k/165587/101.m3u8
+#EXTINF:-1,Sky Cinema Premiere
+http://62.138.14.206:25461/live/t2k/165587/102.m3u8
+#EXTINF:-1,Sky Cinema Select
+http://62.138.14.206:25461/live/t2k/165587/103.m3u8
+#EXTINF:-1,Sky Cinema Showcase
+http://62.138.14.206:25461/live/t2k/165587/107.m3u8
+#EXTINF:-1,Sky Cinema Thriller
+http://62.138.14.206:25461/live/t2k/165587/104.m3u8
+#EXTINF:-1,Film 4
+http://62.138.14.206:25461/live/t2k/165587/106.m3u8
+#EXTINF:-1,True Movies
+http://62.138.14.206:25461/live/t2k/165587/108.m3u8
+#EXTINF:-1,Sony Movies
+http://62.138.14.206:25461/live/t2k/165587/109.m3u8
+#EXTINF:-1,Sony Movies Action
+http://62.138.14.206:25461/live/t2k/165587/110.m3u8
+#EXTINF:-1,TCM
+http://62.138.14.206:25461/live/t2k/165587/111.m3u8
+#EXTINF:-1,B4U Movies
+http://62.138.14.206:25461/live/t2k/165587/112.m3u8
+#EXTINF:-1,## Entertainments ##
+http://62.138.14.206:25461/live/t2k/165587/173.m3u8
+#EXTINF:-1,BBC 1
+http://62.138.14.206:25461/live/t2k/165587/174.m3u8
+#EXTINF:-1,BBC 2
+http://62.138.14.206:25461/live/t2k/165587/175.m3u8
+#EXTINF:-1,BBC 3
+http://62.138.14.206:25461/live/t2k/165587/176.m3u8
+#EXTINF:-1,BBC 4
+http://62.138.14.206:25461/live/t2k/165587/177.m3u8
+#EXTINF:-1,BBC Alba
+http://62.138.14.206:25461/live/t2k/165587/178.m3u8
+#EXTINF:-1,BBC News
+http://62.138.14.206:25461/live/t2k/165587/179.m3u8
+#EXTINF:-1,BBC One Northern Ireland
+http://62.138.14.206:25461/live/t2k/165587/182.m3u8
+#EXTINF:-1,BBC One Scotland
+http://62.138.14.206:25461/live/t2k/165587/183.m3u8
+#EXTINF:-1,BBC One Wales
+http://62.138.14.206:25461/live/t2k/165587/184.m3u8
+#EXTINF:-1,BBC Parliament
+http://62.138.14.206:25461/live/t2k/165587/185.m3u8
+#EXTINF:-1,BBC Two Scotland
+http://62.138.14.206:25461/live/t2k/165587/186.m3u8
+#EXTINF:-1,BBC Two Wales
+http://62.138.14.206:25461/live/t2k/165587/187.m3u8
+#EXTINF:-1,BBC World News
+http://62.138.14.206:25461/live/t2k/165587/188.m3u8
+#EXTINF:-1,ITV 1
+http://62.138.14.206:25461/live/t2k/165587/206.m3u8
+#EXTINF:-1,ITV 2
+http://62.138.14.206:25461/live/t2k/165587/207.m3u8
+#EXTINF:-1,ITV 3
+http://62.138.14.206:25461/live/t2k/165587/208.m3u8
+#EXTINF:-1,ITV 4
+http://62.138.14.206:25461/live/t2k/165587/209.m3u8
+#EXTINF:-1,ITV Be
+http://62.138.14.206:25461/live/t2k/165587/210.m3u8
+#EXTINF:-1,Channel 4
+http://62.138.14.206:25461/live/t2k/165587/194.m3u8
+#EXTINF:-1,4Seven
+http://62.138.14.206:25461/live/t2k/165587/212.m3u8
+#EXTINF:-1,More 4
+http://62.138.14.206:25461/live/t2k/165587/220.m3u8
+#EXTINF:-1,E4
+http://62.138.14.206:25461/live/t2k/165587/201.m3u8
+#EXTINF:-1,Channel 5
+http://62.138.14.206:25461/live/t2k/165587/195.m3u8
+#EXTINF:-1,5 Star
+http://62.138.14.206:25461/live/t2k/165587/213.m3u8
+#EXTINF:-1,5 USA
+http://62.138.14.206:25461/live/t2k/165587/214.m3u8
+#EXTINF:-1,E!
+http://62.138.14.206:25461/live/t2k/165587/200.m3u8
+#EXTINF:-1,Dave
+http://62.138.14.206:25461/live/t2k/165587/198.m3u8
+#EXTINF:-1,Gold
+http://62.138.14.206:25461/live/t2k/165587/204.m3u8
+#EXTINF:-1,BET
+http://62.138.14.206:25461/live/t2k/165587/189.m3u8
+#EXTINF:-1,Blaze
+http://62.138.14.206:25461/live/t2k/165587/190.m3u8
+#EXTINF:-1,Bloomberg
+http://62.138.14.206:25461/live/t2k/165587/191.m3u8
+#EXTINF:-1,CBS Action
+http://62.138.14.206:25461/live/t2k/165587/192.m3u8
+#EXTINF:-1,Challenge
+http://62.138.14.206:25461/live/t2k/165587/193.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://62.138.14.206:25461/live/t2k/165587/196.m3u8
+#EXTINF:-1,Comedy Central
+http://62.138.14.206:25461/live/t2k/165587/197.m3u8
+#EXTINF:-1,Drama
+http://62.138.14.206:25461/live/t2k/165587/199.m3u8
+#EXTINF:-1,Fox
+http://62.138.14.206:25461/live/t2k/165587/202.m3u8
+#EXTINF:-1,Fox News
+http://62.138.14.206:25461/live/t2k/165587/203.m3u8
+#EXTINF:-1,Horror Channel
+http://62.138.14.206:25461/live/t2k/165587/205.m3u8
+#EXTINF:-1,4Music
+http://62.138.14.206:25461/live/t2k/165587/211.m3u8
+#EXTINF:-1,Alibi
+http://62.138.14.206:25461/live/t2k/165587/215.m3u8
+#EXTINF:-1,AMC
+http://62.138.14.206:25461/live/t2k/165587/216.m3u8
+#EXTINF:-1,B4U Music
+http://62.138.14.206:25461/live/t2k/165587/217.m3u8
+#EXTINF:-1,Lifetime
+http://62.138.14.206:25461/live/t2k/165587/218.m3u8
+#EXTINF:-1,London Live
+http://62.138.14.206:25461/live/t2k/165587/219.m3u8
+#EXTINF:-1,MTV
+http://62.138.14.206:25461/live/t2k/165587/221.m3u8
+#EXTINF:-1,MTV Base
+http://62.138.14.206:25461/live/t2k/165587/222.m3u8
+#EXTINF:-1,MTV Classic
+http://62.138.14.206:25461/live/t2k/165587/223.m3u8
+#EXTINF:-1,MTV Club
+http://62.138.14.206:25461/live/t2k/165587/224.m3u8
+#EXTINF:-1,MTV Dance
+http://62.138.14.206:25461/live/t2k/165587/225.m3u8
+#EXTINF:-1,MTV
+http://62.138.14.206:25461/live/t2k/165587/226.m3u8
+#EXTINF:-1,MTV Hits
+http://62.138.14.206:25461/live/t2k/165587/227.m3u8
+#EXTINF:-1,MTV Music
+http://62.138.14.206:25461/live/t2k/165587/228.m3u8
+#EXTINF:-1,MTV Rocks
+http://62.138.14.206:25461/live/t2k/165587/229.m3u8
+#EXTINF:-1,Paramount
+http://62.138.14.206:25461/live/t2k/165587/230.m3u8
+#EXTINF:-1,Pick
+http://62.138.14.206:25461/live/t2k/165587/231.m3u8
+#EXTINF:-1,Quest
+http://62.138.14.206:25461/live/t2k/165587/232.m3u8
+#EXTINF:-1,Quest Red
+http://62.138.14.206:25461/live/t2k/165587/233.m3u8
+#EXTINF:-1,Really
+http://62.138.14.206:25461/live/t2k/165587/234.m3u8
+#EXTINF:-1,RTE 1
+http://62.138.14.206:25461/live/t2k/165587/235.m3u8
+#EXTINF:-1,RTE 2
+http://62.138.14.206:25461/live/t2k/165587/236.m3u8
+#EXTINF:-1,RTE 2
+http://62.138.14.206:25461/live/t2k/165587/237.m3u8
+#EXTINF:-1,RTE Junior
+http://62.138.14.206:25461/live/t2k/165587/238.m3u8
+#EXTINF:-1,RTE News Now
+http://62.138.14.206:25461/live/t2k/165587/239.m3u8
+#EXTINF:-1,RTE One
+http://62.138.14.206:25461/live/t2k/165587/240.m3u8
+#EXTINF:-1,S4C
+http://62.138.14.206:25461/live/t2k/165587/241.m3u8
+#EXTINF:-1,Sky Arts
+http://62.138.14.206:25461/live/t2k/165587/242.m3u8
+#EXTINF:-1,Sky Atlantic
+http://62.138.14.206:25461/live/t2k/165587/243.m3u8
+#EXTINF:-1,Sky Nature
+http://62.138.14.206:25461/live/t2k/165587/244.m3u8
+#EXTINF:-1,Sky News
+http://62.138.14.206:25461/live/t2k/165587/245.m3u8
+#EXTINF:-1,Sky One
+http://62.138.14.206:25461/live/t2k/165587/246.m3u8
+#EXTINF:-1,Sky Two
+http://62.138.14.206:25461/live/t2k/165587/247.m3u8
+#EXTINF:-1,Sky Witness
+http://62.138.14.206:25461/live/t2k/165587/248.m3u8
+#EXTINF:-1,Sony Channel
+http://62.138.14.206:25461/live/t2k/165587/249.m3u8
+#EXTINF:-1,STV
+http://62.138.14.206:25461/live/t2k/165587/250.m3u8
+#EXTINF:-1,Syfy
+http://62.138.14.206:25461/live/t2k/165587/251.m3u8
+#EXTINF:-1,TG4
+http://62.138.14.206:25461/live/t2k/165587/252.m3u8
+#EXTINF:-1,TLC
+http://62.138.14.206:25461/live/t2k/165587/253.m3u8
+#EXTINF:-1,True Drama
+http://62.138.14.206:25461/live/t2k/165587/254.m3u8
+#EXTINF:-1,True Entertainment
+http://62.138.14.206:25461/live/t2k/165587/255.m3u8
+#EXTINF:-1,Universal Channel
+http://62.138.14.206:25461/live/t2k/165587/256.m3u8
+#EXTINF:-1,UTV
+http://62.138.14.206:25461/live/t2k/165587/257.m3u8
+#EXTINF:-1,Viceland
+http://62.138.14.206:25461/live/t2k/165587/258.m3u8
+#EXTINF:-1,Watch
+http://62.138.14.206:25461/live/t2k/165587/259.m3u8
+#EXTINF:-1,## Childrens TV ##
+http://62.138.14.206:25461/live/t2k/165587/133.m3u8
+#EXTINF:-1,Baby TV
+http://62.138.14.206:25461/live/t2k/165587/134.m3u8
+#EXTINF:-1,Boomerang
+http://62.138.14.206:25461/live/t2k/165587/135.m3u8
+#EXTINF:-1,CITV
+http://62.138.14.206:25461/live/t2k/165587/136.m3u8
+#EXTINF:-1,Cartoon Network
+http://62.138.14.206:25461/live/t2k/165587/137.m3u8
+#EXTINF:-1,Cartoonito
+http://62.138.14.206:25461/live/t2k/165587/138.m3u8
+#EXTINF:-1,CBBC
+http://62.138.14.206:25461/live/t2k/165587/139.m3u8
+#EXTINF:-1,CBeebies
+http://62.138.14.206:25461/live/t2k/165587/140.m3u8
+#EXTINF:-1,Disney XD
+http://62.138.14.206:25461/live/t2k/165587/141.m3u8
+#EXTINF:-1,Nick Jnr
+http://62.138.14.206:25461/live/t2k/165587/142.m3u8
+#EXTINF:-1,Nick Junior Too
+http://62.138.14.206:25461/live/t2k/165587/143.m3u8
+#EXTINF:-1,Nickelodeon
+http://62.138.14.206:25461/live/t2k/165587/144.m3u8
+#EXTINF:-1,Nick SpongeBob
+http://62.138.14.206:25461/live/t2k/165587/145.m3u8
+#EXTINF:-1,Nicktoons
+http://62.138.14.206:25461/live/t2k/165587/146.m3u8
+#EXTINF:-1,Pop
+http://62.138.14.206:25461/live/t2k/165587/147.m3u8
+#EXTINF:-1,Tiny Pop
+http://62.138.14.206:25461/live/t2k/165587/148.m3u8
+#EXTINF:-1,## Documentaries ##
+http://62.138.14.206:25461/live/t2k/165587/149.m3u8
+#EXTINF:-1,Animal Planet
+http://62.138.14.206:25461/live/t2k/165587/150.m3u8
+#EXTINF:-1,Discovery Channel
+http://62.138.14.206:25461/live/t2k/165587/151.m3u8
+#EXTINF:-1,Discovery History
+http://62.138.14.206:25461/live/t2k/165587/152.m3u8
+#EXTINF:-1,Discovery Science
+http://62.138.14.206:25461/live/t2k/165587/153.m3u8
+#EXTINF:-1,Discovery Turbo
+http://62.138.14.206:25461/live/t2k/165587/154.m3u8
+#EXTINF:-1,Crime & Investigation
+http://62.138.14.206:25461/live/t2k/165587/155.m3u8
+#EXTINF:-1,History 1
+http://62.138.14.206:25461/live/t2k/165587/157.m3u8
+#EXTINF:-1,History 2
+http://62.138.14.206:25461/live/t2k/165587/156.m3u8
+#EXTINF:-1,Investigation Discovery
+http://62.138.14.206:25461/live/t2k/165587/158.m3u8
+#EXTINF:-1,Nat Geo
+http://62.138.14.206:25461/live/t2k/165587/159.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://62.138.14.206:25461/live/t2k/165587/160.m3u8
+#EXTINF:-1,Yesterday
+http://62.138.14.206:25461/live/t2k/165587/161.m3u8
+#EXTINF:-1,DMAX
+http://62.138.14.206:25461/live/t2k/165587/162.m3u8
+#EXTINF:-1,Eden
+http://62.138.14.206:25461/live/t2k/165587/163.m3u8
+#EXTINF:-1,Food Network
+http://62.138.14.206:25461/live/t2k/165587/164.m3u8
+#EXTINF:-1,Good Food
+http://62.138.14.206:25461/live/t2k/165587/165.m3u8
+#EXTINF:-1,Home
+http://62.138.14.206:25461/live/t2k/165587/166.m3u8
+#EXTINF:-1,Home Health
+http://62.138.14.206:25461/live/t2k/165587/167.m3u8
+#EXTINF:-1,Travel Channel
+http://62.138.14.206:25461/live/t2k/165587/168.m3u8
+#EXTINF:-1,True Crime
+http://62.138.14.206:25461/live/t2k/165587/169.m3u8
+#EXTINF:-1,Sky Crime
+http://62.138.14.206:25461/live/t2k/165587/170.m3u8
+#EXTINF:-1,CBS Justice
+http://62.138.14.206:25461/live/t2k/165587/171.m3u8
+#EXTINF:-1,CBS Reality
+http://62.138.14.206:25461/live/t2k/165587/172.m3u8
+#EXTINF:-1,test1
+http://62.138.14.206:25461/live/t2k/165587/13151.m3u8
+#EXTINF:-1,## Mixed Sports Inc Football ##
+http://62.138.14.206:25461/live/t2k/165587/93.m3u8
+#EXTINF:-1,Hub Premier 1 FHD
+http://62.138.14.206:25461/live/t2k/165587/12.m3u8
+#EXTINF:-1,Hub Premier 2 FHD
+http://62.138.14.206:25461/live/t2k/165587/13.m3u8
+#EXTINF:-1,Hub Premier 3 FHD
+http://62.138.14.206:25461/live/t2k/165587/14.m3u8
+#EXTINF:-1,Hub Premier 4 FHD
+http://62.138.14.206:25461/live/t2k/165587/15.m3u8
+#EXTINF:-1,Hub Premier 5 FHD
+http://62.138.14.206:25461/live/t2k/165587/16.m3u8
+#EXTINF:-1,Hub Premier 6 FHD
+http://62.138.14.206:25461/live/t2k/165587/17.m3u8
+#EXTINF:-1,Hub Premier 7 FHD
+http://62.138.14.206:25461/live/t2k/165587/18.m3u8
+#EXTINF:-1,Hub Premier 8 FHD
+http://62.138.14.206:25461/live/t2k/165587/19.m3u8
+#EXTINF:-1,Hub Premier 9 FHD
+http://62.138.14.206:25461/live/t2k/165587/20.m3u8
+#EXTINF:-1,Hub Premier 10 FHD
+http://62.138.14.206:25461/live/t2k/165587/21.m3u8
+#EXTINF:-1,Hub Premier 11 FHD
+http://62.138.14.206:25461/live/t2k/165587/22.m3u8
+#EXTINF:-1,Hub Premier 1 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/68.m3u8
+#EXTINF:-1,Hub Premier 2 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/69.m3u8
+#EXTINF:-1,Hub Premier 3 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/70.m3u8
+#EXTINF:-1,Hub Premier 4 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/71.m3u8
+#EXTINF:-1,Hub Premier 5 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/72.m3u8
+#EXTINF:-1,Hub Premier 6 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/73.m3u8
+#EXTINF:-1,Hub Premier 7 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/74.m3u8
+#EXTINF:-1,Hub Premier 8 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/75.m3u8
+#EXTINF:-1,Hub Sports 1 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/55.m3u8
+#EXTINF:-1,Hub Sports 2 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/56.m3u8
+#EXTINF:-1,Hub Sports 3 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/57.m3u8
+#EXTINF:-1,Hub Sports 4 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/58.m3u8
+#EXTINF:-1,Hub Sports 5 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/59.m3u8
+#EXTINF:-1,Hub Sports 6 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/60.m3u8
+#EXTINF:-1,Hub Sports 7 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/61.m3u8
+#EXTINF:-1,Hub Sports 8 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/62.m3u8
+#EXTINF:-1,Now HK Premier Sports 1
+http://62.138.14.206:25461/live/t2k/165587/5.m3u8
+#EXTINF:-1,Now HK Premier Sports 2
+http://62.138.14.206:25461/live/t2k/165587/6.m3u8
+#EXTINF:-1,Now HK Premier Sports 3
+http://62.138.14.206:25461/live/t2k/165587/7.m3u8
+#EXTINF:-1,Now HK Premier Sports 4
+http://62.138.14.206:25461/live/t2k/165587/8.m3u8
+#EXTINF:-1,Now HK Premier Sports 5
+http://62.138.14.206:25461/live/t2k/165587/9.m3u8
+#EXTINF:-1,Now HK Premier Sports 6
+http://62.138.14.206:25461/live/t2k/165587/10.m3u8
+#EXTINF:-1,Now HK Premier Sports 7
+http://62.138.14.206:25461/live/t2k/165587/11.m3u8
+#EXTINF:-1,Astro Premier League 1
+http://62.138.14.206:25461/live/t2k/165587/49.m3u8
+#EXTINF:-1,Astro Premier League 2
+http://62.138.14.206:25461/live/t2k/165587/50.m3u8
+#EXTINF:-1,Astro Grandstand
+http://62.138.14.206:25461/live/t2k/165587/51.m3u8
+#EXTINF:-1,Astro Football
+http://62.138.14.206:25461/live/t2k/165587/52.m3u8
+#EXTINF:-1,Astro Sports Plus
+http://62.138.14.206:25461/live/t2k/165587/53.m3u8
+#EXTINF:-1,beIN Sports 1 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/63.m3u8
+#EXTINF:-1,beIN Sports 2 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/64.m3u8
+#EXTINF:-1,beIN Sports 3 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/65.m3u8
+#EXTINF:-1,beIN Sports 4 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/66.m3u8
+#EXTINF:-1,beIN Sports 5 (Allow 15 Seconds To Start)
+http://62.138.14.206:25461/live/t2k/165587/67.m3u8
+#EXTINF:-1,Stan Sport AU Event 1
+http://62.138.14.206:25461/live/t2k/165587/42.m3u8
+#EXTINF:-1,Stan Sport AU Event 2
+http://62.138.14.206:25461/live/t2k/165587/41.m3u8
+#EXTINF:-1,Stan Sport AU Event 3
+http://62.138.14.206:25461/live/t2k/165587/40.m3u8
+#EXTINF:-1,Stan Sport AU Event 4
+http://62.138.14.206:25461/live/t2k/165587/39.m3u8
+#EXTINF:-1,Stan Sport AU Event 5
+http://62.138.14.206:25461/live/t2k/165587/38.m3u8
+#EXTINF:-1,Stan Sport AU Event 6
+http://62.138.14.206:25461/live/t2k/165587/37.m3u8
+#EXTINF:-1,Stan Sport AU Event 7
+http://62.138.14.206:25461/live/t2k/165587/36.m3u8
+#EXTINF:-1,Stan Sport AU Event 8
+http://62.138.14.206:25461/live/t2k/165587/35.m3u8
+#EXTINF:-1,Stan Sport AU Event 9
+http://62.138.14.206:25461/live/t2k/165587/34.m3u8
+#EXTINF:-1,Stan Sport AU Event 10
+http://62.138.14.206:25461/live/t2k/165587/33.m3u8
+#EXTINF:-1,Stan Sport AU Event 11
+http://62.138.14.206:25461/live/t2k/165587/32.m3u8
+#EXTINF:-1,Stan Sport AU Event 12
+http://62.138.14.206:25461/live/t2k/165587/31.m3u8
+#EXTINF:-1,Stan Sport AU Event 13
+http://62.138.14.206:25461/live/t2k/165587/30.m3u8
+#EXTINF:-1,Stan Sport AU Event 14
+http://62.138.14.206:25461/live/t2k/165587/29.m3u8
+#EXTINF:-1,Stan Sport AU Event 15
+http://62.138.14.206:25461/live/t2k/165587/28.m3u8
+#EXTINF:-1,Stan Sport AU Event 16
+http://62.138.14.206:25461/live/t2k/165587/27.m3u8
+#EXTINF:-1,Stan Sport AU Event 17
+http://62.138.14.206:25461/live/t2k/165587/26.m3u8
+#EXTINF:-1,Stan Sport AU Event 18
+http://62.138.14.206:25461/live/t2k/165587/25.m3u8
+#EXTINF:-1,Stan Sport AU Event 19
+http://62.138.14.206:25461/live/t2k/165587/24.m3u8
+#EXTINF:-1,Stan Sport AU Event 20
+http://62.138.14.206:25461/live/t2k/165587/23.m3u8
