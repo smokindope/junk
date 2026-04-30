@@ -1,0 +1,24 @@
+#EXTINF:0,Sky Movies Action
+http://149.202.74.136:8080/401/index.m3u8
+#EXTINF:0,Sky Movies Thriller
+http://149.202.74.136:8080/402/index.m3u8
+#EXTINF:0,Sky Movies Premiere
+http://149.202.74.136:8080/403/index.m3u8
+#EXTINF:0,Sky Movies Show Case
+http://149.202.74.136:8080/404/index.m3u8
+#EXTINF:0,Sky Movies Greats
+http://149.202.74.136:8080/405/index.m3u8
+#EXTINF:0,Sky Movies Family
+http://149.202.74.136:8080/406/index.m3u8
+#EXTINF:0,Sky Movies Sci-fi
+http://149.202.74.136:8080/407/index.m3u8
+#EXTINF:0,Sky Movies Comedy
+http://149.202.74.136:8080/409/index.m3u8
+#EXTINF:0,Sky Movies Select
+http://149.202.74.136:8080/410/index.m3u8
+#EXTINF:0,Sky Atlantic
+http://149.202.74.136:8080/411/index.m3u8
+#EXTINF:0,Movies4Men
+http://149.202.74.136:8080/413/index.m3u8
+#EXTINF:0,Sony Movies
+http://178.33.239.54:8080/425/index.m3u8
