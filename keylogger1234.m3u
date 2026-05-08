@@ -1,0 +1,623 @@
+
+#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png" tvg-rec="5" timeshift="5", Первый канал HD
+http://ua.online24.pm/play/73/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xrtr-planeta-eu" tvg-name="РТР Планета СНГ" tvg-logo="https://ip-tv.dev/images/ico/rtr-planeta.png" tvg-rec="5" timeshift="5", Планета РТР
+http://ua.online24.pm/play/353/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xotr" tvg-name="ОТР" tvg-logo="https://ip-tv.dev/epg/icon/otr_ru.png" tvg-rec="5" timeshift="5", ОТР
+http://ua.online24.pm/play/199/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X2plus2" tvg-name="2+2" tvg-logo="https://ip-tv.dev/images/ico/2plus2.png" tvg-rec="5" timeshift="5", 2+2
+http://ua.online24.pm/play/656/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X2plus2" tvg-name="2+2 HD" tvg-logo="https://ip-tv.dev/images/ico/2plus2hd.png" tvg-rec="5" timeshift="5", 2+2 HD
+http://ua.online24.pm/play/9953/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xua-kyiv" tvg-name="UA: Київ" tvg-logo="https://ip-tv.dev/images/ico/kiiv.png" tvg-rec="5" timeshift="5", UA: Київ
+http://ua.online24.pm/play/5498/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xunian-tv" tvg-name="Униан ТВ" tvg-logo="https://ip-tv.dev/epg/icon/unian.png" tvg-rec="5" timeshift="5", Униан ТВ
+http://ua.online24.pm/play/9949/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="suspilne-poltava" tvg-name="Суспільне Полтава" tvg-logo="https://ip-tv.dev/images/ico/suspilne_poltava.png" tvg-rec="5" timeshift="5", Суспільне Полтава
+http://ua.online24.pm/play/6219/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png" tvg-rec="5" timeshift="5", Eurosport
+http://ua.online24.pm/play/15/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png" tvg-rec="5" timeshift="5", Eurosport HD
+http://ua.online24.pm/play/145/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png" tvg-rec="5" timeshift="5", Eurosport 2
+http://ua.online24.pm/play/43/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png" tvg-rec="5" timeshift="5", Eurosport 2 HD
+http://ua.online24.pm/play/361/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="Матч! ПРЕМЬЕР" tvg-logo="https://ip-tv.dev/epg/icon/match-premiere.png" tvg-rec="5" timeshift="5", Матч! ПРЕМЬЕР
+http://ua.online24.pm/play/37/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-premier" tvg-name="Матч Премьер HD" tvg-logo="https://ip-tv.dev/epg/icon/match-premiere.png" tvg-rec="5" timeshift="5", Матч Премьер HD
+http://ua.online24.pm/play/250/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч Арена" tvg-logo="https://ip-tv.dev/epg/icon/match-arena.png" tvg-rec="5" timeshift="5", Матч Арена
+http://ua.online24.pm/play/136/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-arena" tvg-name="Матч! Арена HD" tvg-logo="https://ip-tv.dev/epg/icon/match-arena.png" tvg-rec="5" timeshift="5", Матч! Арена HD
+http://ua.online24.pm/play/146/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-planeta" tvg-name="Матч! Планета" tvg-logo="https://ip-tv.dev/epg/icon/match-planeta.png" tvg-rec="5" timeshift="5", Матч! Планета
+http://ua.online24.pm/play/14/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч ТВ" tvg-logo="https://ip-tv.dev/epg/icon/match.png" tvg-rec="5" timeshift="5", Матч ТВ
+http://ua.online24.pm/play/5/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-tv" tvg-name="Матч! HD" tvg-logo="https://ip-tv.dev/epg/icon/match.png" tvg-rec="5" timeshift="5", Матч! HD
+http://ua.online24.pm/play/397/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-boets" tvg-name="Матч! Боец HD" tvg-logo="https://ip-tv.dev/epg/icon/match-boec.png" tvg-rec="5" timeshift="5", Матч! Боец HD
+http://ua.online24.pm/play/30/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="МАТЧ! Страна" tvg-logo="https://ip-tv.dev/epg/icon/match-nash-sport.png" tvg-rec="5" timeshift="5", МАТЧ! Страна
+http://ua.online24.pm/play/134/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-nash-sport" tvg-name="Матч! Страна HD" tvg-logo="https://ip-tv.dev/epg/icon/match-nash-sport.png" tvg-rec="5" timeshift="5", Матч! Страна HD
+http://ua.online24.pm/play/212/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра" tvg-logo="https://ip-tv.dev/epg/icon/match-igra.png" tvg-rec="5" timeshift="5", Матч! Игра
+http://ua.online24.pm/play/153/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-igra" tvg-name="Матч! Игра HD" tvg-logo="https://ip-tv.dev/epg/icon/match-igra.png" tvg-rec="5" timeshift="5", Матч! Игра HD
+http://ua.online24.pm/play/268/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч! Футбол 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-1.png" tvg-rec="5" timeshift="5", Матч! Футбол 1 HD
+http://ua.online24.pm/play/260/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football1" tvg-name="Матч Футбол 1" tvg-logo="https://ip-tv.dev/epg/icon/match-football-1.png" tvg-rec="5" timeshift="5", Матч Футбол 1
+http://ua.online24.pm/play/54/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football2" tvg-name="Матч! Футбол 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-2.png" tvg-rec="5" timeshift="5", Матч! Футбол 2 HD
+http://ua.online24.pm/play/271/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmatch-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="https://ip-tv.dev/epg/icon/match-football-3.png" tvg-rec="5" timeshift="5", Матч! Футбол 3 HD
+http://ua.online24.pm/play/329/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmegogo-sport" tvg-name="Megogo Спорт HD" tvg-logo="https://ip-tv.dev/images/ico/megogo-sport.png" tvg-rec="5" timeshift="5", Megogo Спорт HD
+http://ua.online24.pm/play/1001/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Premium HD" tvg-logo="https://ip-tv.dev/images/ico/5d1013c8-594c-4fb6-a6d1-654df583a246.png" , Setanta Sports Premium HD
+http://ua.online24.pm/play/1650/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-ua" tvg-name="Setanta Sports Ukraine" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports.png" tvg-rec="5" timeshift="5", Setanta Sports Ukraine
+http://ua.online24.pm/play/1434/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" tvg-logo="https://ip-tv.dev/epg/icon/setanta-sports-plus.png" tvg-rec="5" timeshift="5", Setanta Sports+ Ukraine
+http://ua.online24.pm/play/9957/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-sports" tvg-name="Setanta Sports 1 HD" tvg-logo="https://ip-tv.dev/images/ico/setanta-sports1.png" tvg-rec="5" timeshift="5", Setanta Sports 1 HD
+http://ua.online24.pm/play/942/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-sports-plus" tvg-name="Setanta Sports 2 HD" tvg-logo="https://ip-tv.dev/images/ico/setanta-sports2.png" tvg-rec="5" timeshift="5", Setanta Sports 2 HD
+http://ua.online24.pm/play/943/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta-kz" tvg-name="Setanta Qazaqstan" tvg-logo="https://ip-tv.dev/images/ico/setanta-kz.png" tvg-rec="5" timeshift="5", Setanta Qazaqstan
+http://ua.online24.pm/play/5094/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD MD" tvg-logo="https://ip-tv.dev/images/epg/11008.png?v1745673062" , Setanta Sports HD MD
+http://ua.online24.pm/play/11008/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsuspilne-sport-ua" tvg-name="Суспільне Спорт" tvg-logo="https://ip-tv.dev/images/ico/suspilne_sport.png" , Суспільне Спорт
+http://ua.online24.pm/play/316/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdivisport" tvg-name="DiviSport" tvg-logo="https://ip-tv.dev/images/ico/divisport.png" , DiviSport
+http://ua.online24.pm/play/315/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdynamo-kyiv-tv" tvg-name="Dynamo Kyiv TV" tvg-logo="https://ip-tv.dev/images/ico/dynamo-kyiv-tv.png" , Dynamo Kyiv TV
+http://ua.online24.pm/play/8797/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол" tvg-logo="https://ip-tv.dev/epg/icon/futbol.png" tvg-rec="5" timeshift="5", Футбол
+http://ua.online24.pm/play/171/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfootball-ru" tvg-name="Футбол HD" tvg-logo="https://ip-tv.dev/epg/icon/futbol.png" tvg-rec="5" timeshift="5", Футбол HD
+http://ua.online24.pm/play/3920/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viju+ Sport" tvg-logo="https://ip-tv.dev/images/ico/viju-viasat-sport.png" tvg-rec="5" timeshift="5", Viju+ Sport
+http://ua.online24.pm/play/77/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-sport" tvg-name="Viju+ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/viju-viasat-sport.png" tvg-rec="5" timeshift="5", Viju+ Sport HD
+http://ua.online24.pm/play/198/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xokko-sport" tvg-name="Окко Спорт HD" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png" tvg-rec="5" timeshift="5", Окко Спорт HD
+http://ua.online24.pm/play/7337/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xokko-football" tvg-name="Окко Футбол HD" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png" tvg-rec="5" timeshift="5", Окко Футбол HD
+http://ua.online24.pm/play/7338/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xokko-sport-2" tvg-name=" Окко.Прайм Спорт" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916" tvg-rec="5" timeshift="5", Окко.Прайм Спорт
+http://ua.online24.pm/play/1833/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xstart-triumf" tvg-name="Старт Триумф HD" tvg-logo="https://ip-tv.dev/images/ico/start-triumf.png" tvg-rec="5" timeshift="5", Старт Триумф HD
+http://ua.online24.pm/play/7375/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xstart" tvg-name="Старт HD" tvg-logo="https://ip-tv.dev/epg/icon/start.png" tvg-rec="5" timeshift="5", Старт HD
+http://ua.online24.pm/play/9946/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xkonny-mir" tvg-name="Конный мир HD" tvg-logo="https://ip-tv.dev/epg/icon/konny-mir.png" tvg-rec="5" timeshift="5", Конный мир HD
+http://ua.online24.pm/play/394/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xkxl" tvg-name="КХЛ" tvg-logo="https://ip-tv.dev/epg/icon/khl.png" tvg-rec="5" timeshift="5", КХЛ
+http://ua.online24.pm/play/149/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xkxl-hd" tvg-name="KHL Prime" tvg-logo="https://ip-tv.dev/images/ico/kxl-hd.png" tvg-rec="5" timeshift="5", KHL Prime
+http://ua.online24.pm/play/177/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xxokkejny" tvg-name="Хоккейный" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png" tvg-rec="5" timeshift="5", Хоккейный
+http://ua.online24.pm/play/6160/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-tv" tvg-name="Бокс ТВ" tvg-logo="https://ip-tv.dev/epg/icon/box-tv.png" tvg-rec="5" timeshift="5", Бокс ТВ
+http://ua.online24.pm/play/482/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-ua" tvg-name="Sport 1 UA" tvg-logo="https://ip-tv.dev/images/ico/sport1ua.png" , Sport 1 UA
+http://ua.online24.pm/play/2638/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport2-ua" tvg-name="Sport 2 UA" tvg-logo="https://ip-tv.dev/images/ico/sport2ua.png" , Sport 2 UA
+http://ua.online24.pm/play/2639/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 UA HD" tvg-logo="https://ip-tv.dev/images/ico/sport3ua.png" , Sport 3 UA HD
+http://ua.online24.pm/play/2640/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 UA" tvg-logo="https://ip-tv.dev/images/ico/sport4ua.png" , Sport 4 UA
+http://ua.online24.pm/play/2641/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xnba-tv" tvg-name="NBA TV" tvg-logo="https://ip-tv.dev/epg/icon/nba-tv.png" tvg-rec="5" timeshift="5", NBA TV
+http://ua.online24.pm/play/9984/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmir-basketbola" tvg-name="Мир Баскетбола" tvg-logo="https://ip-tv.dev/images/ico/mir-basketbola.png" tvg-rec="5" timeshift="5", Мир Баскетбола
+http://ua.online24.pm/play/8831/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xavto-plus" tvg-name="Авто Плюс" tvg-logo="https://ip-tv.dev/epg/icon/avto-plus.png" tvg-rec="5" timeshift="5", Авто Плюс
+http://ua.online24.pm/play/29/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sports" tvg-logo="https://ip-tv.dev/epg/icon/extreme-sports.png" tvg-rec="5" timeshift="5", Extreme Sports
+http://ua.online24.pm/play/53/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsportivny" tvg-name="Спортивный" tvg-logo="https://ip-tv.dev/images/ico/sportivny.png" tvg-rec="5" timeshift="5", Спортивный
+http://ua.online24.pm/play/6159/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xvoleybol" tvg-name="Волейбол HD" tvg-logo="https://ip-tv.dev/images/epg/1807.png?v1744228983" tvg-rec="5" timeshift="5", Волейбол HD
+http://ua.online24.pm/play/1807/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xufc" tvg-name="UDAR" tvg-logo="https://ip-tv.dev/images/ico/ufc.png" tvg-rec="5" timeshift="5", UDAR
+http://ua.online24.pm/play/4111/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="UFC ТВ HD" tvg-logo="https://ip-tv.dev/images/ico/7913.png" , UFC ТВ HD
+http://ua.online24.pm/play/1777/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="MMA-TV HD" tvg-logo="https://ip-tv.dev/images/ico/mma.png" , MMA-TV HD
+http://ua.online24.pm/play/3795/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xxsport-ua" tvg-name="Xsport HD" tvg-logo="https://ip-tv.dev/images/ico/xsport-ua.png" tvg-rec="5" timeshift="5", Xsport HD
+http://ua.online24.pm/play/480/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xxsport-plus-ua" tvg-name="Xsport+ HD" tvg-logo="https://ip-tv.dev/images/ico/xsport-plus-ua.png" , Xsport+ HD
+http://ua.online24.pm/play/2635/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X no_epg_sport" tvg-name="Equalympic HD" tvg-logo="https://ip-tv.dev/images/ico/Equalympic_HD.jpg" , Equalympic HD
+http://ua.online24.pm/play/8788/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="https://ip-tv.dev/epg/icon/russky-ekstrim.png" tvg-rec="5" timeshift="5", Русский Экстрим
+http://ua.online24.pm/play/345/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtochka-otryva" tvg-name="Точка отрыва" tvg-logo="https://ip-tv.dev/epg/icon/tochka-otryva.png" tvg-rec="5" timeshift="5", Точка отрыва
+http://ua.online24.pm/play/601/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xavto24" tvg-name="Авто 24" tvg-logo="https://ip-tv.dev/epg/icon/avto24.png" tvg-rec="5" timeshift="5", Авто 24
+http://ua.online24.pm/play/256/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xcars-n-stars" tvg-name="Cars & Stars TV HD" tvg-logo="https://ip-tv.dev/images/ico/cars-n-stars.png" tvg-rec="5" timeshift="5", Cars & Stars TV HD
+http://ua.online24.pm/play/9904/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfightbox-hd" tvg-name="FightBox" tvg-logo="https://ip-tv.dev/images/ico/fightbox-hd.png" tvg-rec="5" timeshift="5", FightBox
+http://ua.online24.pm/play/8790/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtrace-sport-stars" tvg-name="TRACE Sport Stars" tvg-logo="https://ip-tv.dev/images/ico/trace-sport-stars.png" tvg-rec="5" timeshift="5", TRACE Sport Stars
+http://ua.online24.pm/play/9907/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfastfunbox-hd" tvg-name="Fast&FunBox" tvg-logo="https://ip-tv.dev/images/ico/fastfunbox-hd.png" tvg-rec="5" timeshift="5", Fast&FunBox
+http://ua.online24.pm/play/8792/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="1889" tvg-name="Tennis+", Tennis+
+http://ua.online24.pm/play/1889/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xupltv" tvg-name="UPL.TV HD" tvg-logo="https://ip-tv.dev/images/ico/upl.png" tvg-rec="5" timeshift="5", UPL.TV HD
+http://ua.online24.pm/play/523/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xupltv1" tvg-name="УПЛ ТВ 1" tvg-logo="https://ip-tv.dev/images/ico/upltv1.png" tvg-rec="5" timeshift="5", УПЛ ТВ 1
+http://ua.online24.pm/play/524/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xupltv2" tvg-name="УПЛ ТВ 2" tvg-logo="https://ip-tv.dev/images/ico/upltv2.png" tvg-rec="5" timeshift="5", УПЛ ТВ 2
+http://ua.online24.pm/play/525/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xupltv3" tvg-name="УПЛ ТВ 3" tvg-logo="https://ip-tv.dev/images/ico/upltv3.png" tvg-rec="5" timeshift="5", УПЛ ТВ 3
+http://ua.online24.pm/play/526/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077" tvg-rec="5" timeshift="5", QazSport
+http://ua.online24.pm/play/1841/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145" tvg-rec="5" timeshift="5", Q Arena
+http://ua.online24.pm/play/1842/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274" tvg-rec="5" timeshift="5", Q Sport League
+http://ua.online24.pm/play/1843/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369" tvg-rec="5" timeshift="5", Sport+ Qazaqstan
+http://ua.online24.pm/play/1844/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX_SPORT_LIVE_1_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" , BOX_SPORT_LIVE_1_HD
+http://ua.online24.pm/play/51013/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX_SPORT_LIVE_2_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" , BOX_SPORT_LIVE_2_HD
+http://ua.online24.pm/play/51014/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX_SPORT_LIVE_3_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" , BOX_SPORT_LIVE_3_HD
+http://ua.online24.pm/play/51015/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX_SPORT_LIVE_4_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX_SPORT_LIVE_4_HD
+http://ua.online24.pm/play/51016/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX_SPORT_LIVE_5_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX_SPORT_LIVE_5_HD
+http://ua.online24.pm/play/51017/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX_SPORT_LIVE_6_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX_SPORT_LIVE_6_HD
+http://ua.online24.pm/play/51018/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX_SPORT_LIVE_7_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX_SPORT_LIVE_7_HD
+http://ua.online24.pm/play/51019/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX_SPORT_LIVE_8_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live8.png" , BOX_SPORT_LIVE_8_HD
+http://ua.online24.pm/play/51020/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX_SPORT_LIVE_9_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX_SPORT_LIVE_9_HD
+http://ua.online24.pm/play/51021/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4K", BOX_SPORT_LIVE_4K
+http://ua.online24.pm/play/51022/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-1" tvg-name="BeIN Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" , BeIN Sport 1 HD
+http://ua.online24.pm/play/1101/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-2" tvg-name="BeIN Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" , BeIN Sport 2 HD
+http://ua.online24.pm/play/1102/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-3" tvg-name="BeIN Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png" , BeIN Sport 3 HD
+http://ua.online24.pm/play/1103/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-4" tvg-name="BeIN Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png" , BeIN Sport 4 HD
+http://ua.online24.pm/play/1104/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="BeIN EXTRAS" tvg-logo="https://ip-tv.dev/images/epg/1686.png?v1743766086" , BeIN EXTRAS
+http://ua.online24.pm/play/1686/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport1" tvg-name="TNT Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport1.png" , TNT Sport 1 HD
+http://ua.online24.pm/play/922/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport2" tvg-name="TNT Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" , TNT Sport 2 HD
+http://ua.online24.pm/play/923/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport3" tvg-name="TNT Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport3.png" , TNT Sport 3 HD
+http://ua.online24.pm/play/934/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
+http://ua.online24.pm/play/1121/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
+http://ua.online24.pm/play/836/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 1", Live Sport 1
+http://ua.online24.pm/play/1580/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 2", Live Sport 2
+http://ua.online24.pm/play/1581/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 1" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 1
+http://ua.online24.pm/play/1704/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 2" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 2
+http://ua.online24.pm/play/1705/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 3" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 3
+http://ua.online24.pm/play/1706/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 4" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 4
+http://ua.online24.pm/play/1707/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 5" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 5
+http://ua.online24.pm/play/1708/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 6" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 6
+http://ua.online24.pm/play/1709/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 7" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 7
+http://ua.online24.pm/play/1710/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 8" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 8
+http://ua.online24.pm/play/1711/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 9" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 9
+http://ua.online24.pm/play/1712/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 10" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 10
+http://ua.online24.pm/play/1713/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 11" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 11
+http://ua.online24.pm/play/1714/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 12" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 12
+http://ua.online24.pm/play/1715/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Football Live 13" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" , Football Live 13
+http://ua.online24.pm/play/1716/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 1" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 1
+http://ua.online24.pm/play/5009/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 2" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 2
+http://ua.online24.pm/play/5010/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 3" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 3
+http://ua.online24.pm/play/5011/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 4" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 4
+http://ua.online24.pm/play/5012/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 5" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 5
+http://ua.online24.pm/play/5013/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 7" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 7
+http://ua.online24.pm/play/5014/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 6" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 6
+http://ua.online24.pm/play/5015/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 8" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 8
+http://ua.online24.pm/play/5016/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 9" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 9
+http://ua.online24.pm/play/5017/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 10" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 10
+http://ua.online24.pm/play/5018/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 11" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 11
+http://ua.online24.pm/play/5019/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 12" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 12
+http://ua.online24.pm/play/5020/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 13" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 13
+http://ua.online24.pm/play/5021/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 1" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , Vital Sport 1
+http://ua.online24.pm/play/5022/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 2" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , Vital Sport 2
+http://ua.online24.pm/play/5023/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 3" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , Vital Sport 3
+http://ua.online24.pm/play/5024/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 4" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , Vital Sport 4
+http://ua.online24.pm/play/5025/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 5" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , Vital Sport 5
+http://ua.online24.pm/play/5026/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 6" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" , Vital Sport 6
+http://ua.online24.pm/play/5027/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="FintGa 1" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 1
+http://ua.online24.pm/play/5028/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="FintGa 2" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 2
+http://ua.online24.pm/play/5029/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="FintGa 3" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 3
+http://ua.online24.pm/play/5030/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="FintGa 4" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" , FintGa 4
+http://ua.online24.pm/play/5031/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Pimple 1" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 1
+http://ua.online24.pm/play/5032/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Pimple 2" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 2
+http://ua.online24.pm/play/5033/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Pimple 3" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 3
+http://ua.online24.pm/play/5034/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Pimple 4" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 4
+http://ua.online24.pm/play/5035/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Pimple 5" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 5
+http://ua.online24.pm/play/5036/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Pimple 6" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" , Pimple 6
+http://ua.online24.pm/play/5037/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge" tvg-name="BOX Be ON Edge HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge.png" , BOX Be ON Edge HD
+http://ua.online24.pm/play/4215/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge1live" tvg-name="BOX Be ON Edge 1 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge1live.png" , BOX Be ON Edge 1 Live HD
+http://ua.online24.pm/play/4213/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge2live" tvg-name="BOX Be ON Edge 2 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge2live.png" , BOX Be ON Edge 2 Live HD
+http://ua.online24.pm/play/4214/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX SportCast Live 1 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" , BOX SportCast Live 1 HD
+http://ua.online24.pm/play/4224/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX SportCast Live 2 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" , BOX SportCast Live 2 HD
+http://ua.online24.pm/play/4225/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX SportCast Live 3 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" , BOX SportCast Live 3 HD
+http://ua.online24.pm/play/4226/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX SportCast Live 4 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX SportCast Live 4 HD
+http://ua.online24.pm/play/4227/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX SportCast Live 5 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX SportCast Live 5 HD
+http://ua.online24.pm/play/4228/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX SportCast Live 6 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX SportCast Live 6 HD
+http://ua.online24.pm/play/4232/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX SportCast Live 7 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX SportCast Live 7 HD
+http://ua.online24.pm/play/4233/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX SportCast Live 8 HD" tvg-logo="https://ip-tv.dev/images/epg/4234.png?v1743766406" , BOX SportCast Live 8 HD
+http://ua.online24.pm/play/4234/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX SportCast Live 9 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX SportCast Live 9 HD
+http://ua.online24.pm/play/4235/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="MMA Junkie" tvg-logo="https://ip-tv.dev/images/ico/MMAJunkie.png" , MMA Junkie
+http://ua.online24.pm/play/5718/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 2" tvg-logo="https://ip-tv.dev/images/ico/dubaisports2.png" , Dubai Sports 2
+http://ua.online24.pm/play/5406/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 3" tvg-logo="https://ip-tv.dev/images/ico/dubaisports3.png" , Dubai Sports 3
+http://ua.online24.pm/play/5407/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-1.png" , Diema Sport HD
+http://ua.online24.pm/play/51002/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 HD
+http://ua.online24.pm/play/51003/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-3.png" , Diema Sport 3 HD
+http://ua.online24.pm/play/51004/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 4K
+http://ua.online24.pm/play/51001/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 4K" tvg-logo="https://ip-tv.dev/images/epg/51000.jpg?v1743766303" , Diema Sport 3 4K
+http://ua.online24.pm/play/51000/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xclarity4k-edinoborstva" tvg-name="Clarity4K Единоборства" tvg-logo="https://ip-tv.dev/images/ico/clarity4k-edinoborstva.png" , Clarity4K Единоборства
+http://ua.online24.pm/play/4611/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbelarus5" tvg-name="Беларусь 5" tvg-logo="https://ip-tv.dev/epg/icon/belarus5.png" , Беларусь 5
+http://ua.online24.pm/play/1467/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-lt" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/sport1-lt.png" tvg-rec="5" timeshift="5", Sport 1 HD
+http://ua.online24.pm/play/3714/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport1-baltic" tvg-name="Sport 1 Baltic" tvg-logo="https://ip-tv.dev/images/ico/sport1-baltic.png" tvg-rec="5" timeshift="5", Sport 1 Baltic
+http://ua.online24.pm/play/876/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport2-baltic" tvg-name="Sport 2 Baltic" tvg-logo="https://ip-tv.dev/images/ico/sport2-baltic.png" tvg-rec="5" timeshift="5", Sport 2 Baltic
+http://ua.online24.pm/play/6972/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Sport 4" tvg-logo="https://ip-tv.dev/images/ico/sport4-ua.png" , Sport 4
+http://ua.online24.pm/play/6708/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
+http://ua.online24.pm/play/6709/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
+http://ua.online24.pm/play/6710/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
+http://ua.online24.pm/play/6711/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-open" tvg-name="Go3 Sport Open HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-open.png" tvg-rec="5" timeshift="5", Go3 Sport Open HD
+http://ua.online24.pm/play/6712/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta1-lt" tvg-name="Setanta Sports 1 Lietuva" tvg-logo="https://ip-tv.dev/images/epg/1901.png?v1752316139" , Setanta Sports 1 Lietuva
+http://ua.online24.pm/play/1901/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsetanta2-lt" tvg-name="Setanta Sports 2 Lietuva" tvg-logo="https://ip-tv.dev/images/epg/1906.png?v1752316149" , Setanta Sports 2 Lietuva
+http://ua.online24.pm/play/1906/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfilmzone-lv" tvg-name="Filmzone HD" tvg-logo="https://ip-tv.dev/images/ico/filmzone.png" tvg-rec="5" timeshift="5", Filmzone HD
+http://ua.online24.pm/play/6729/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
+http://ua.online24.pm/play/6718/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
+http://ua.online24.pm/play/6719/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
+http://ua.online24.pm/play/6720/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xgo3-sport4" tvg-name="Go3 Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/go3-sport4.png" tvg-rec="5" timeshift="5", Go3 Sport 4 HD
+http://ua.online24.pm/play/6721/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-open" tvg-name="Go3 Sport Open HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-open.png" tvg-rec="5" timeshift="5", Go3 Sport Open HD
+http://ua.online24.pm/play/6722/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbest4sport" tvg-name="Best4Sport HD" tvg-logo="https://ip-tv.dev/images/ico/best4sport.png" tvg-rec="5" timeshift="5", Best4Sport HD
+http://ua.online24.pm/play/6726/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xbest4sport2" tvg-name="Best4Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/best4sport2.png" tvg-rec="5" timeshift="5", Best4Sport 2 HD
+http://ua.online24.pm/play/6725/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
+http://ua.online24.pm/play/6713/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
+http://ua.online24.pm/play/6714/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
+http://ua.online24.pm/play/6715/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xgo3-sport4" tvg-name="Go3 Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/go3-sport4.png" tvg-rec="5" timeshift="5", Go3 Sport 4 HD
+http://ua.online24.pm/play/6716/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" tvg-rec="5" timeshift="5", Sky Sport Bundesliga HD
+http://ua.online24.pm/play/836/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-aus" tvg-name="Sky Sport Austria HD DE" tvg-logo="https://ip-tv.dev/images/epg/5129.png?v1743758276" tvg-rec="5" timeshift="5", Sky Sport Austria HD DE
+http://ua.online24.pm/play/5129/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="Sky Sports F1 HD" tvg-logo="https://ip-tv.dev/images/epg/9923.png?v1743758303" tvg-rec="5" timeshift="5", Sky Sports F1 HD
+http://ua.online24.pm/play/9923/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X10675" tvg-name="Sky Sport Top Event HD" tvg-logo="https://ip-tv.dev/images/epg/925.png?v1743760891" , Sky Sport Top Event HD
+http://ua.online24.pm/play/925/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-golf" tvg-name="Sky Sport Golf HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-golf.png" tvg-rec="5" timeshift="5", Sky Sport Golf HD
+http://ua.online24.pm/play/924/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd1" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-hd1.png" tvg-rec="5" timeshift="5", Sky Sport 1 HD DE
+http://ua.online24.pm/play/833/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X10785" tvg-name="Sky Sport Mix" tvg-logo="https://ip-tv.dev/images/epg/745.png?v1743758367" , Sky Sport Mix
+http://ua.online24.pm/play/745/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X10634" tvg-name="Sky Sport Tennis HD" tvg-logo="https://ip-tv.dev/images/epg/916.png?v1743758380" tvg-rec="5" timeshift="5", Sky Sport Tennis HD
+http://ua.online24.pm/play/916/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-news" tvg-name="Sky Sports News HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-news.png" tvg-rec="5" timeshift="5", Sky Sports News HD
+http://ua.online24.pm/play/832/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X10880" tvg-name="Sky Sport Premier League" tvg-logo="https://ip-tv.dev/images/epg/818.png?v1743758392" tvg-rec="5" timeshift="5", Sky Sport Premier League
+http://ua.online24.pm/play/818/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X76756" tvg-name="ORF SPORT+" tvg-logo="https://ip-tv.dev/images/epg/936.png?v1743760969" tvg-rec="5" timeshift="5", ORF SPORT+
+http://ua.online24.pm/play/936/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X401577" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/976.png?v1743758438" tvg-rec="5" timeshift="5", Sport 1 HD
+http://ua.online24.pm/play/976/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XeSports1.de" tvg-name="ESports 1" tvg-logo="https://ip-tv.dev/images/epg/856.png?v1743758424" tvg-rec="5" timeshift="5", ESports 1
+http://ua.online24.pm/play/856/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSPORT1+.de" tvg-name="Sport 1+" tvg-logo="https://ip-tv.dev/images/epg/977.png?v1743758448" tvg-rec="5" timeshift="5", Sport 1+
+http://ua.online24.pm/play/977/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X76619" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/822.png?v1743758461" tvg-rec="5" timeshift="5", Eurosport 1 HD
+http://ua.online24.pm/play/822/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X76705" tvg-name="Sportdigital EDGE" tvg-logo="https://ip-tv.dev/images/epg/956.png?v1743758515" tvg-rec="5" timeshift="5", Sportdigital EDGE
+http://ua.online24.pm/play/956/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Sportdigital FUSSBALL HD" tvg-logo="https://ip-tv.dev/images/epg/967.png?v1743758479" , Sportdigital FUSSBALL HD
+http://ua.online24.pm/play/967/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X10635" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530" tvg-rec="5" timeshift="5", Sky Replay
+http://ua.online24.pm/play/5136/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X10918" tvg-name="Sky Showcase HD" tvg-logo="https://ip-tv.dev/images/epg/831.png?v1743760999" tvg-rec="5" timeshift="5", Sky Showcase HD
+http://ua.online24.pm/play/831/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991623" tvg-name="One HD" tvg-logo="https://ip-tv.dev/images/ico/one1.png" tvg-rec="5" timeshift="5", One HD
+http://ua.online24.pm/play/1506/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991784" tvg-name="One 2 HD" tvg-logo="https://ip-tv.dev/images/ico/one1.png" tvg-rec="5" timeshift="5", One 2 HD
+http://ua.online24.pm/play/6915/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XONEDoco.il" tvg-name="ONE DOCO HD" tvg-logo="https://ip-tv.dev/images/ico/7120.png" tvg-rec="5" timeshift="5", ONE DOCO HD
+http://ua.online24.pm/play/1780/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XEdgeSport.il" tvg-name="Edge Sport HD" tvg-logo="https://ip-tv.dev/images/ico/10473.png" tvg-rec="5" timeshift="5", Edge Sport HD
+http://ua.online24.pm/play/1788/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991787" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/sport1.png" tvg-rec="5" timeshift="5", Sport 1 HD
+http://ua.online24.pm/play/1522/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991796" tvg-name="Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/sport2.png" tvg-rec="5" timeshift="5", Sport 2 HD
+http://ua.online24.pm/play/1521/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991788" tvg-name="Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/sport3.png" tvg-rec="5" timeshift="5", Sport 3 HD
+http://ua.online24.pm/play/1565/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991783" tvg-name="Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/sport4.png" tvg-rec="5" timeshift="5", Sport 4 HD
+http://ua.online24.pm/play/1566/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991606" tvg-name="Sport 5 HD" tvg-logo="https://ip-tv.dev/images/ico/sport5.png" tvg-rec="5" timeshift="5", Sport 5 HD
+http://ua.online24.pm/play/1507/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991790" tvg-name="Sport 5 Stars HD" tvg-logo="https://ip-tv.dev/images/ico/sport5stars.png" tvg-rec="5" timeshift="5", Sport 5 Stars HD
+http://ua.online24.pm/play/6916/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X5Gold.il" tvg-name="Sport 5 Gold" tvg-logo="https://ip-tv.dev/images/ico/7056.png" tvg-rec="5" timeshift="5", Sport 5 Gold
+http://ua.online24.pm/play/6923/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991605" tvg-name="Sport 5 Plus HD" tvg-logo="https://ip-tv.dev/images/ico/sport5plus.png" tvg-rec="5" timeshift="5", Sport 5 Plus HD
+http://ua.online24.pm/play/6924/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X991593" tvg-name="Sport 5 Live HD" tvg-logo="https://ip-tv.dev/images/ico/sport5live.png" tvg-rec="5" timeshift="5", Sport 5 Live HD
+http://ua.online24.pm/play/1531/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsportklub-pl" tvg-name="Sport Klub PL" tvg-logo="https://ip-tv.dev/images/ico/sportklub-pl.png" , Sport Klub PL
+http://ua.online24.pm/play/1925/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xtvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://ip-tv.dev/images/ico/tvp-sport.png" , TVP Sport HD
+http://ua.online24.pm/play/1910/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-1" tvg-name="Eleven Sports 1 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-1.png" , Eleven Sports 1 HD
+http://ua.online24.pm/play/1904/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-2" tvg-name="Eleven Sports 2 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-2.png" , Eleven Sports 2 HD
+http://ua.online24.pm/play/1903/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-3" tvg-name="Eleven Sports 3 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-3.png" , Eleven Sports 3 HD
+http://ua.online24.pm/play/5445/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeleven-sports-4 " tvg-name="Eleven Sports 4 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-4 .png" , Eleven Sports 4 HD
+http://ua.online24.pm/play/5446/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1-pl" tvg-name="Eurosport 1 HD PL" tvg-logo="https://ip-tv.dev/images/ico/eurosport1pl.png" , Eurosport 1 HD PL
+http://ua.online24.pm/play/5453/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2-pl" tvg-name="Eurosport 2 HD PL" tvg-logo="https://ip-tv.dev/images/ico/eurosport2pl.png" , Eurosport 2 HD PL
+http://ua.online24.pm/play/5454/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XGolf.Channel.HD.pl" tvg-name="Golf Channel", Golf Channel
+http://ua.online24.pm/play/5614/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfightbox-hd" tvg-name="FightBox HD" tvg-logo="https://ip-tv.dev/images/ico/fightbox-hd.png" , FightBox HD
+http://ua.online24.pm/play/5467/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xmotowizja-pl" tvg-name="Motowizija" tvg-logo="https://ip-tv.dev/images/ico/Motowizija.png" , Motowizija
+http://ua.online24.pm/play/5468/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sport" tvg-logo="https://ip-tv.dev/images/ico/extreme-sports.png" , Extreme Sport
+http://ua.online24.pm/play/5469/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport" tvg-name="Polsat Sport" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport.png" , Polsat Sport
+http://ua.online24.pm/play/5456/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport 2", Polsat Sport 2
+http://ua.online24.pm/play/5452/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport 3" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-extra.png" , Polsat Sport 3
+http://ua.online24.pm/play/5457/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr1" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr1.png" , Polsat Sport Premium 1 HD
+http://ua.online24.pm/play/5447/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr2" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr2.png" , Polsat Sport Premium 2 HD
+http://ua.online24.pm/play/5448/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr3" tvg-name="Polsat Sport Premium 3 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr3.png" , Polsat Sport Premium 3 HD
+http://ua.online24.pm/play/5449/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr4" tvg-name="Polsat Sport Premium 4 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr4.png" , Polsat Sport Premium 4 HD
+http://ua.online24.pm/play/5450/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-pr5" tvg-name="Polsat Sport Premium 5 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr5.png" , Polsat Sport Premium 5 HD
+http://ua.online24.pm/play/5451/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xpolsat-sport-fight" tvg-name="Polsat Sport Fight" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-fight.png" , Polsat Sport Fight
+http://ua.online24.pm/play/5458/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSilk1" tvg-name="Silk Sport 1" tvg-logo="https://ip-tv.dev/images/ico/silksport1.jpg" tvg-rec="5" timeshift="5", Silk Sport 1
+http://ua.online24.pm/play/418/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSilk2" tvg-name="Silk Sport 2" tvg-logo="https://ip-tv.dev/images/ico/silksport2.jpg" tvg-rec="5" timeshift="5", Silk Sport 2
+http://ua.online24.pm/play/1491/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSilk3" tvg-name="Silk Sport 3" tvg-logo="https://ip-tv.dev/images/ico/silksport3.jpg" tvg-rec="5" timeshift="5", Silk Sport 3
+http://ua.online24.pm/play/1492/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSetanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://ip-tv.dev/images/ico/setanta1.png" tvg-rec="5" timeshift="5", Setanta Sports 1
+http://ua.online24.pm/play/1493/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSetanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://ip-tv.dev/images/ico/setanta2.png" tvg-rec="5" timeshift="5", Setanta Sports 2
+http://ua.online24.pm/play/1494/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSetanta Sports 3" tvg-name="Setanta Sports 3" tvg-logo="https://ip-tv.dev/images/ico/setanta3.png" tvg-rec="5" timeshift="5", Setanta Sports 3
+http://ua.online24.pm/play/1495/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X1TV Sport" tvg-name="1TV Sport" tvg-logo="https://ip-tv.dev/images/ico/1tvsport.png" tvg-rec="5" timeshift="5", 1TV Sport
+http://ua.online24.pm/play/486/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XRugby_TV" tvg-name="Rugby TV" tvg-logo="https://ip-tv.dev/images/ico/rugbytv.png" tvg-rec="5" timeshift="5", Rugby TV
+http://ua.online24.pm/play/483/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XO2" tvg-name="O2" tvg-logo="https://ip-tv.dev/images/ico/o2.png" tvg-rec="5" timeshift="5", O2
+http://ua.online24.pm/play/463/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XNova.Sport.bg" tvg-name="Nova Sport" tvg-logo="https://ip-tv.dev/images/ico/novasport.png" , Nova Sport
+http://ua.online24.pm/play/6827/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.bg" tvg-name="Diema Sport" tvg-logo="https://ip-tv.dev/images/ico/diema.png" , Diema Sport
+http://ua.online24.pm/play/6830/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2" tvg-logo="https://ip-tv.dev/images/ico/diema2.png" , Diema Sport 2
+http://ua.online24.pm/play/6831/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema2.png" , Diema Sport 2 4K
+http://ua.online24.pm/play/1652/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.3.bg" tvg-name="Diema Sport 3" tvg-logo="https://ip-tv.dev/images/ico/diema3.png" , Diema Sport 3
+http://ua.online24.pm/play/6832/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.1.bg" tvg-name="Max Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/max1.png" , Max Sport 1 HD
+http://ua.online24.pm/play/6875/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.2.bg" tvg-name="Max Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/max2.png" , Max Sport 2 HD
+http://ua.online24.pm/play/6876/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.3.bg" tvg-name="Max Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/max3.png" , Max Sport 3 HD
+http://ua.online24.pm/play/6877/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.4.bg" tvg-name="Max Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/max4.png" , Max Sport 4 HD
+http://ua.online24.pm/play/6878/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD MD" tvg-logo="https://ip-tv.dev/images/epg/11008.png?v1745673091" , Setanta Sports HD MD
+http://ua.online24.pm/play/11008/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDigi.Sport.1.HD.ro" tvg-name="Digi sport 1 HD", Digi sport 1 HD
+http://ua.online24.pm/play/11068/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDigi.Sport.2.HD.ro" tvg-name="Digi sport 2 HD", Digi sport 2 HD
+http://ua.online24.pm/play/11069/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XDigi.24.HD.ro" tvg-name="Digi24", Digi24
+http://ua.online24.pm/play/11072/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XEurosport.1.HD.ro" tvg-name="Eurosport 2", Eurosport 2
+http://ua.online24.pm/play/11081/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XEurosport.2.HD.ro" tvg-name="Eurosport 2 HD", Eurosport 2 HD
+http://ua.online24.pm/play/11082/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XSport.Extra.ro" tvg-name="Sport Extra HD", Sport Extra HD
+http://ua.online24.pm/play/11158/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="EPT Sport 1 HD", EPT Sport 1 HD
+http://ua.online24.pm/play/5927/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="EPT Sport 2 HD", EPT Sport 2 HD
+http://ua.online24.pm/play/5926/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XAuto.Motor.Sport.TV.hu" tvg-name="Auto Motor Sport HU", Auto Motor Sport HU
+http://ua.online24.pm/play/796/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XMatch.4.hu" tvg-name="MATCH4 HD HU", MATCH4 HD HU
+http://ua.online24.pm/play/879/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XEurosport.HD.hu" tvg-name="Eurosport HU", Eurosport HU
+http://ua.online24.pm/play/882/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XEurosport.2.HD.hu" tvg-name="Eurosport 2 HU", Eurosport 2 HU
+http://ua.online24.pm/play/883/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xm4sport+.hu" tvg-name="M4 Sport HU", M4 Sport HU
+http://ua.online24.pm/play/893/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X07ceb1ac6be64075dded2510c27e0c6e" tvg-name="Nova Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/8565.png" , Nova Sport 1 HD
+http://ua.online24.pm/play/1123/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X366a88cf3a4bab603ef6408966546e71" tvg-name="Nova Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/8566.png" , Nova Sport 2 HD
+http://ua.online24.pm/play/1124/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X4bbd04b8c84805428618645d943fc28d" tvg-name="Nova Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/9801.png" , Nova Sport 3 HD
+http://ua.online24.pm/play/1125/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X6edcad12e88ffac3da0cacb565970775" tvg-name="Nova Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/9802.png" , Nova Sport 4 HD
+http://ua.online24.pm/play/1126/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X7845ca0015c718657d785b311edf5079" tvg-name="Nova Sport 5 HD" tvg-logo="https://ip-tv.dev/images/ico/9803.png" , Nova Sport 5 HD
+http://ua.online24.pm/play/1127/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X1ee5b7ce8676fe322a8bb63f097f8c9a" tvg-name="Arena Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/7935.png" , Arena Sport 1 HD
+http://ua.online24.pm/play/1128/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X29310a006ce41c9fb5cca14f333849fb" tvg-name="Arena Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/7936.png" , Arena Sport 2 HD
+http://ua.online24.pm/play/1129/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X5a47413dce1d8829fcbe0bf021e18ae5" tvg-name="AutoMotorSport HD" tvg-logo="https://ip-tv.dev/images/ico/9197.png" , AutoMotorSport HD
+http://ua.online24.pm/play/1130/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X18e7a585715561d4bb2606977deb20f6" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/8847.png" , Sport 1 HD
+http://ua.online24.pm/play/1131/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X703d414b1e8d7eee864115685ee47e01" tvg-name="Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/8847.png" , Sport 2 HD
+http://ua.online24.pm/play/1132/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X3981fa886a1704937afd96d87ea46ef1" tvg-name="RTVS SPORT HD" tvg-logo="https://ip-tv.dev/images/ico/9300.png" , RTVS SPORT HD
+http://ua.online24.pm/play/1133/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xeacbd3c220de39cfa7c855755d1291cf" tvg-name="JOJ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/8546.png" , JOJ Sport HD
+http://ua.online24.pm/play/1134/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="X6fda506ca37562e7c8a37011eecb6995" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
+http://ua.online24.pm/play/1135/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xba551cee37d621f3a459d798ae881e5e" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
+http://ua.online24.pm/play/1136/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xba674f276a1f7dbe4c756d9ea0b50a38" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
+http://ua.online24.pm/play/1137/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xfad8ef045fa357781cfb3163d4b45a09" tvg-name="Golf Channel" tvg-logo="https://ip-tv.dev/images/ico/9204.png" , Golf Channel
+http://ua.online24.pm/play/1138/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Play4", Play4
+http://ua.online24.pm/play/8004/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Play5", Play5
+http://ua.online24.pm/play/8005/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XPlay6.be" tvg-name="Play6", Play6
+http://ua.online24.pm/play/8006/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XPlay7.be" tvg-name="Play7", Play7
+http://ua.online24.pm/play/8007/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Sport 10", Sport 10
+http://ua.online24.pm/play/8008/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XESPN.1.nl" tvg-name="ESPN HD", ESPN HD
+http://ua.online24.pm/play/1139/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XESPN.2.nl" tvg-name="ESPN 2 HD", ESPN 2 HD
+http://ua.online24.pm/play/1140/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XESPN.4.nl" tvg-name="ESPN 4 HD", ESPN 4 HD
+http://ua.online24.pm/play/1141/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XZiggo.Sport.nl" tvg-name="Ziggo Sport", Ziggo Sport
+http://ua.online24.pm/play/1142/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XZiggo.Sport.2.nl" tvg-name="Ziggo Sport 2", Ziggo Sport 2
+http://ua.online24.pm/play/1143/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="XZiggo.Sport.6.nl" tvg-name="Ziggo Sport 6", Ziggo Sport 6
+http://ua.online24.pm/play/1144/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369" tvg-rec="5" timeshift="5", Sport+ Qazaqstan
+http://ua.online24.pm/play/1844/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274" tvg-rec="5" timeshift="5", Q Sport League
+http://ua.online24.pm/play/1843/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145" tvg-rec="5" timeshift="5", Q Arena
+http://ua.online24.pm/play/1842/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077" tvg-rec="5" timeshift="5", QazSport
+http://ua.online24.pm/play/1841/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="CBC Sport AZ", CBC Sport AZ
+http://ua.online24.pm/play/434/623939143BE8A4B/video.m3u8
+#EXTINF:0 tvg-name="Idman AZ", Idman AZ
+http://ua.online24.pm/play/439/623939143BE8A4B/video.m3u8
