@@ -1,4 +1,3 @@
-#EXTM3U HELLO I just looked at a few channels and they are working.
 #EXTINF:0,61. RTNC 1+
 http://37.187.138.41:80/RTNC/index.m3u8
 #EXTINF:0,62. B-ONE TVFsky
