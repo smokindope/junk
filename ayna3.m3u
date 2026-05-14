@@ -1,0 +1,427 @@
+#EXTM3U HELLO I just looked at a few channels and they are working.
+#EXTINF:0,61. RTNC 1+
+http://37.187.138.41:80/RTNC/index.m3u8
+#EXTINF:0,62. B-ONE TVFsky
+http://37.187.138.41:80/79/index.m3u8
+#EXTINF:0,63. TELE 50
+http://37.187.138.41:80/80/index.m3u8
+#EXTINF:0,64. TELE 50+
+https://stream.berosat.live:19360/tele50-index/tele50-index.m3u8
+#EXTINF:0,65. DIGITAL CONGO
+http://37.187.138.41:80/81/index.m3u8
+#EXTINF:0,66. BOSOLO TV
+http://37.187.138.41:80/83/index.m3u8
+#EXTINF:0,67. ANTENNE A
+http://37.187.138.41:80/84/index.m3u8
+#EXTINF:0,68. ANTENNE A +
+https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8
+#EXTINF:0,69. NUMERICA TV
+http://89.163.146.99/NUMERICA/mono.m3u8
+#EXTINF:0,70. MOLIERE TV
+http://37.187.138.41:80/91/index.m3u8
+#EXTINF:0,71. MISHAPI
+http://89.163.146.99/MISHAPI-STREAM1/index.m3u8
+#EXTINF:0,72. KIN DIRECT
+https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8
+#EXTINF:0,73. RATELKI TV
+http://37.187.138.41:80/90/index.m3u8
+#EXTINF:0,74. PSTV HD
+https://tnt-television.com/PSTVHD-TRANSMIT/index.m3u8
+#EXTINF:0,75. MALAIKA TV
+http://37.187.138.41:80/106/index.m3u8
+#EXTINF:0,76. NYOTA TV
+http://37.187.138.41:80/120/index.m3u8
+#EXTINF:0,78. HK6
+http://37.187.138.41:80/144/index.m3u8
+#EXTINF:0,79. HERITAGE
+http://37.187.138.41:80/145/index.m3u8
+#EXTINF:0,80. MABOKE TV
+http://37.187.138.41:80/149/index.m3u8
+#EXTINF:0,81. TELE CONGO
+http://37.187.138.41:80/TeleCongo/index.m3u8
+#EXTINF:0,82. TELE CONGO +
+http://69.64.57.208/telecongo/mono.m3u8
+#EXTINF:0,83. DRTV
+http://37.187.138.41:80/100/index.m3u8
+#EXTINF:0,87. BISO TV
+http://37.187.138.41:80/BISO/index.m3u8
+#EXTINF:0,88. MCR TV
+http://37.187.138.41:80/134/index.m3u8
+#EXTINF:0,89. C-DIRECT
+http://37.187.138.41:80/155/index.m3u8
+#EXTINF:0,90. TV ZIMBO
+http://37.187.138.41:80/ZimboTV/index.m3u8
+#EXTINF:0,91. ZAP VIVA
+http://37.187.138.41:80/153/index.m3u8
+#EXTINF:0,92. KTV ANGOLA
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:0,94. TVI Africa
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0,95. RTP AFRICA
+http://37.187.138.41:80/151/index.m3u8
+#EXTINF:0,96. RTNK
+http://37.187.138.41:80/150/index.m3u8
+#EXTINF:0,97. RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:0,98. BILILI TV
+https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8
+#EXTINF:0,100. COBLA TV
+https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8
+#EXTINF:0,101. BISO MUSIC
+http://37.187.138.41:80/BIsoMusic/index.m3u8
+#EXTINF:0,102. ESAIE 45 TV
+https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8
+#EXTINF:0,103. HORIZON TV
+https://stream.berosat.live:19360/tv-horizon-2000hd-index/tv-horizon-2000hd-index.m3u8
+#EXTINF:0,109. BISO KIDS
+http://37.187.138.41:80/BisoKid/index.m3u8
+#EXTINF:0,110. GOSPEL CHANNEL
+https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8
+#EXTINF:0,112. CCPV TV
+http://37.187.138.41:80/CCpvTV/index.m3u8
+#EXTINF:0,113. SENTINELLE TV
+http://37.187.138.41:80/Sentinelle/index.m3u8
+#EXTINF:0,114. JKM CHURCH TV
+http://37.187.138.41:80/jkmtv/index.m3u8
+#EXTINF:0,115. EV TELE
+https://terranoweb.duckdns.org/live/Evtele/index.m3u8
+#EXTINF:0,116. GOSPEL LIVE HD
+https://stream.berosat.live:19360/gospel-live-hd/gospel-live-hd.m3u8
+#EXTINF:0,117. MUNZANGALA
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8
+#EXTINF:0,118. BARAKA TV
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
+#EXTINF:0,119. TELE MIX
+http://37.187.138.41:80/Tele-Mix/index.m3u8
+#EXTINF:0,123. RTE TV
+https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8
+#EXTINF:0,124. A+
+http://37.187.138.41:80/aPlus/index.m3u8
+#EXTINF:0,125. NOVELAS TV
+http://37.187.138.41:80/NovELAStv/index.m3u8
+#EXTINF:0,126. GOLGOTHA TV
+https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8
+#EXTINF:0,127. EVI TV
+https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
+#EXTINF:0,128. RMTV
+http://37.187.138.41:80/ResurrectionTV/index.m3u8
+#EXTINF:0,129. IVOIRE TV
+http://37.187.138.41:80/Iv-oirTV/index.m3u8
+#EXTINF:0,130. A+ IVOIRE
+http://37.187.138.41:80/A_Plus-ivoire/index.m3u8
+#EXTINF:0,131. 3K HD TV
+https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8
+#EXTINF:0,132. MASOLO TV
+https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8
+#EXTINF:0,133. EMB TV
+https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8
+#EXTINF:0,134. BLUESKY TV
+https://stream.berosat.live:19360/bluesky-tv/bluesky-tv.m3u8
+#EXTINF:0,135. S-MEDIAS TV 3
+https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8
+#EXTINF:0,136. DESTINY TV
+https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8
+#EXTINF:0,137. CBC-TV
+https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+#EXTINF:0,138. POURIM TV
+https://stream.berosat.live:19360/pourim-tv/pourim-tv.m3u8
+#EXTINF:0,139. TELE PROVINCE
+https://stream.berosat.live:19360/tele-province/tele-province.m3u8
+#EXTINF:0,141. NOLLYWOOD TV EPIC
+http://145.239.5.177:80/141/index.m3u8
+#EXTINF:0,142. DER TV
+https://stream.berosat.live:19360/der-tv/der-tv.m3u8
+#EXTINF:0,143. LE MONDE EN 24H
+https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:0,147. CRTV
+http://145.239.5.177:80/147/index.m3u8
+#EXTINF:0,148. Nollywood 2
+http://145.239.5.177:80/148/index.m3u8
+#EXTINF:0,149. JSN TV
+https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8
+#EXTINF:0,150. LA VOIE DE LA VÉRITÉ
+https://stream.berosat.live:19360/voie-verite/voie-verite.m3u8
+#EXTINF:0,151. TOP MODEL G.M
+https://stream.berosat.live:19360/top-model/top-model.m3u8
+#EXTINF:0,152. CEPPA TV
+https://stream.berosat.live:19360/ceppa-tv/ceppa-tv.m3u8
+#EXTINF:0,153. DIESKOLUS TV
+https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8
+#EXTINF:0,154. DJEMBE TV
+https://stream.berosat.live:19360/djembe-tv/djembe-tv.m3u8
+#EXTINF:0,155. LUBEMBE TV
+https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8
+#EXTINF:0,205. TRACE AFRICA
+http://145.239.5.177:80/205/index.m3u8
+#EXTINF:0,206. TRACE GOSPEL
+http://145.239.5.177:80/206/index.m3u8
+#EXTINF:0,209. TRACE URBAN
+http://145.239.5.177:80/209/index.m3u8
+#EXTINF:0,210. TRACE TOCA
+http://145.239.5.177:80/210/index.m3u8
+#EXTINF:0,211. AFRO BEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0,213. TRACE SPORT STARS
+http://178.33.239.54:8080/213/index.m3u8
+#EXTINF:0,214. MAGIC EPIC
+http://145.239.5.177:80/214/index.m3u8
+#EXTINF:0,215. MAGIC FAMILY
+http://145.239.5.177:80/215/index.m3u8
+#EXTINF:0,216. CHAMPION TV
+https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8
+#EXTINF:0,218. ORTB
+http://37.187.138.41:80/RTB/index.m3u8
+#EXTINF:0,219. DBN
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:0,220. MTV Hits
+http://149.202.74.136:8080/220/index.m3u8
+#EXTINF:0,221. MTV UK
+http://149.202.74.136:8080/221/index.m3u8
+#EXTINF:0,222. VOX AFRICA
+http://37.187.138.41:80/vox/index.m3u8
+#EXTINF:0,224. RTS 2
+http://145.239.5.177:80/224/index.m3u8
+#EXTINF:0,225. TV5 MONDE
+http://178.33.239.54:8080/225/index.m3u8
+#EXTINF:0,229. LA3
+http://69.64.57.208/la3/playlist.m3u8
+#EXTINF:0,277. ZEE MAGIC
+http://37.187.138.41:80/Zee-Magic/index.m3u8
+#EXTINF:0,279. REFLET TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:0,299. SERIE CLUB
+http://145.239.5.177:80/355/index.m3u8
+#EXTINF:0,300. ARTE
+http://145.239.5.177:80/300/index.m3u8
+#EXTINF:0,301. TF1
+http://145.239.5.177:80/301/index.m3u8
+#EXTINF:0,302. FRANCE 2
+http://178.33.239.54:8080/302/index.m3u8
+#EXTINF:0,303. FRANCE 3
+http://178.33.239.54:8080/303/index.m3u8
+#EXTINF:0,305. FRANCE 5
+http://145.239.5.177:80/305/index.m3u8
+#EXTINF:0,306. FRANCE INFO
+http://145.239.5.177:80/306/index.m3u8
+#EXTINF:0,307. TF1 +1
+http://178.33.239.54:8080/307/index.m3u8
+#EXTINF:0,308. RTL 9
+http://145.239.5.177:80/308/index.m3u8
+#EXTINF:0,309. M6
+http://145.239.5.177:80/309/index.m3u8
+#EXTINF:0,310. France 24
+http://178.33.239.54:8080/310/index.m3u8
+#EXTINF:0,311. BFM TV
+http://178.33.239.54:8080/311/index.m3u8
+#EXTINF:0,312. PARIS PREMIER
+http://145.239.5.177:80/312/index.m3u8
+#EXTINF:0,313. TF1 SERIE
+http://37.187.138.41:80/TF-un-serie/index.m3u8
+#EXTINF:0,314. 6 TER HD
+http://145.239.5.177:80/314/index.m3u8
+#EXTINF:0,315. TFX
+http://145.239.5.177:80/315/index.m3u8
+#EXTINF:0,316. 13eme Rue
+http://178.33.239.54:8080/316/index.m3u8
+#EXTINF:0,317. CINE POLAR
+http://178.33.239.54:8080/317/index.m3u8
+#EXTINF:0,318. BREIZH TV
+http://145.239.5.177:80/318/index.m3u8
+#EXTINF:0,319. CANAL SERIES HD
+http://145.239.5.177:80/319/index.m3u8
+#EXTINF:0,320. M6 MUSIC
+http://145.239.5.177:80/320/index.m3u8
+#EXTINF:0,321. CINE FAMIZ
+http://145.239.5.177:80/321/index.m3u8
+#EXTINF:0,322. CANAL+ HD
+http://145.239.5.177:80/322/index.m3u8
+#EXTINF:0,323. CANAL+ ELLES C
+http://37.187.138.41:80/C-Ellesc/index.m3u8
+#EXTINF:0,325. CANAL+ FAMILY HD
+http://178.33.239.54:8080/325/index.m3u8
+#EXTINF:0,327. E! Entertainment
+http://145.239.5.177:80/111/index.m3u8
+#EXTINF:0,329. LA UNE
+http://145.239.5.177:80/329/index.m3u8
+#EXTINF:0,330. LA TROIS
+http://145.239.5.177:80/330/index.m3u8
+#EXTINF:0,331. W9
+http://145.239.5.177:80/331/index.m3u8
+#EXTINF:0,332. AB1
+http://145.239.5.177:80/332/index.m3u8
+#EXTINF:0,333. CHERIE 25
+http://145.239.5.177:80/333/index.m3u8
+#EXTINF:0,337. CINE EMOTION HD
+http://145.239.5.177:80/337/index.m3u8
+#EXTINF:0,341. CANAL+ GRAND ECRAN
+http://145.239.5.177:80/341/index.m3u8
+#EXTINF:0,349. CINE PREMIER
+http://145.239.5.177:80/349/index.m3u8
+#EXTINF:0,353. CINE+ FRISSON
+http://145.239.5.177:80/353/index.m3u8
+#EXTINF:0,354. KTO
+http://145.239.5.177:80/354/index.m3u8
+#EXTINF:0,356. TEVA
+http://145.239.5.177:80/356/index.m3u8
+#EXTINF:0,359. BET FR
+http://145.239.5.177:80/359/index.m3u8
+#EXTINF:0,361. C STAR
+http://145.239.5.177:80/361/index.m3u8
+#EXTINF:0,368. LCI
+http://145.239.5.177:80/368/index.m3u8
+#EXTINF:0,371. ROUGE TV
+http://145.239.5.177:80/371/index.m3u8
+#EXTINF:0,374. INFO SPORT
+http://178.33.239.54:8080/374/index.m3u8
+#EXTINF:0,381. CANAL PLAY 1
+http://178.33.239.54:8080/381/index.m3u8
+#EXTINF:0,401. SKY CINEMA ACTION
+http://149.202.74.136:8080/401/index.m3u8
+#EXTINF:0,402. SKY MOVIES THRILLER
+http://149.202.74.136:8080/402/index.m3u8
+#EXTINF:0,403. SKY MOVIES PREMIER
+http://149.202.74.136:8080/403/index.m3u8
+#EXTINF:0,404. Sky Movie Show Case
+http://149.202.74.136:8080/404/index.m3u8
+#EXTINF:0,405. Sky Movies Greats
+http://149.202.74.136:8080/405/index.m3u8
+#EXTINF:0,406. Sky Movies Family
+http://149.202.74.136:8080/406/index.m3u8
+#EXTINF:0,407. Sky Movies Sci-fi
+http://149.202.74.136:8080/407/index.m3u8
+#EXTINF:0,409. Sky Movies Comedy
+http://149.202.74.136:8080/409/index.m3u8
+#EXTINF:0,410. Sky Movies Select
+http://149.202.74.136:8080/410/index.m3u8
+#EXTINF:0,411. SKYY ATLANTIC
+http://149.202.74.136:8080/411/index.m3u8
+#EXTINF:0,413. Movies4Men
+http://149.202.74.136:8080/413/index.m3u8
+#EXTINF:0,425. SONY MOVIES
+http://178.33.239.54:8080/425/index.m3u8
+#EXTINF:0,426. 5USA
+http://149.202.74.136:8080/426/index.m3u8
+#EXTINF:0,435. Aljazeera
+http://149.202.74.136:8080/435/index.m3u8
+#EXTINF:0,440. Cbs Drama
+http://178.33.239.54:8080/440/index.m3u8
+#EXTINF:0,441. Natgeo
+http://178.33.239.54:8080/441/index.m3u8
+#EXTINF:0,500. SKY SPORTS FOOTBALL
+http://178.33.239.54:8080/500a/index.m3u8
+#EXTINF:0,501. SKY SPORTS NEWS
+http://178.33.239.54:8080/501a/index.m3u8
+#EXTINF:0,502. SKY SPORT MAIN EVENT
+http://178.33.239.54:8080/502a/index.m3u8
+#EXTINF:0,503. SKY SPORT CRICKET
+http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:0,504. SKY SPORT ACTION
+http://178.33.239.54:8080/504a/index.m3u8
+#EXTINF:0,506. SKY SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/506a/index.m3u8
+#EXTINF:0,507. SKY SPORTS MIX HD
+http://178.33.239.54:8080/507a/index.m3u8
+#EXTINF:0,508. Sky SPORTS F1
+http://178.33.239.54:8080/508a/index.m3u8
+#EXTINF:0,509. BT SPORTS 1
+http://178.33.239.54:8080/509a/index.m3u8
+#EXTINF:0,510. BT SPORTS 2
+http://178.33.239.54:8080/510a/index.m3u8
+#EXTINF:0,511. BT SPORTS 3
+http://178.33.239.54:8080/511a/index.m3u8
+#EXTINF:0,512. beIN SPORT 1
+http://178.33.239.54:8080/512a/index.m3u8
+#EXTINF:0,513. beIN SPORT 2
+http://178.33.239.54:8080/513a/index.m3u8
+#EXTINF:0,514. beIN SPORT 3
+http://145.239.5.177:80/514/index.m3u8
+#EXTINF:0,518. AMAZON PRIME 3
+http://145.239.5.177:80/518/index.m3u8
+#EXTINF:0,524. RMC SPORT 1
+http://178.33.239.54:8080/524/index.m3u8
+#EXTINF:0,525. RMC SPORT 2
+http://145.239.5.177:80/525/index.m3u8
+#EXTINF:0,526. RMC SPORT 3
+http://145.239.5.177:80/526/index.m3u8
+#EXTINF:0,527. RMC SPORT 4
+http://178.33.239.54:8080/527/index.m3u8
+#EXTINF:0,529. EURO SPORT
+http://145.239.5.177:80/529/index.m3u8
+#EXTINF:0,530. EURO SPORT 2
+http://145.239.5.177:80/530/index.m3u8
+#EXTINF:0,531. PREMIER SPORTS
+http://178.33.239.54:8080/531a/index.m3u8
+#EXTINF:0,539. ESPN
+http://149.202.74.136:8080/539/index.m3u8
+#EXTINF:0,540. ESPN 2
+http://149.202.74.136:8080/540/index.m3u8
+#EXTINF:0,541. CANAL+ SPORT
+http://178.33.239.54:8080/541/index.m3u8
+#EXTINF:0,542. CANAL+PREMIER LEAGUE
+http://178.33.239.54:8080/542/index.m3u8
+#EXTINF:0,544. CANAL+SPORT2
+http://178.33.239.54:8080/544/index.m3u8
+#EXTINF:0,545. CANAL+ SPORT3
+http://178.33.239.54:8080/545/index.m3u8
+#EXTINF:0,546. CANAL+SPORT4
+http://178.33.239.54:8080/546/index.m3u8
+#EXTINF:0,547. Canal+ MotoGP
+http://178.33.239.54:8080/547/index.m3u8
+#EXTINF:0,549. L'EQUIPE
+http://145.239.5.177:80/549/index.m3u8
+#EXTINF:0,556. Canal+ FOOT
+http://145.239.5.177/556a/index.m3u8
+#EXTINF:0,557. FR: BeIN SPORTS 1 HD
+http://145.239.5.177/557a/index.m3u8
+#EXTINF:0,558. FR: BeIN SPORTS 2 HD
+http://145.239.5.177/558a/index.m3u8
+#EXTINF:0,559. FR: BeIN SPORTS 3 HD
+http://145.239.5.177/559a/index.m3u8
+#EXTINF:0,561. Canal+ Sport 360
+http://145.239.5.177/561a/index.m3u8
+#EXTINF:0,562. SUPER SPORTS PSL
+http://145.239.5.177/562a/index.m3u8
+#EXTINF:0,563. SUPER SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/563/index.m3u8
+#EXTINF:0,564. SUPER SPORTS FOOTBALL
+http://145.239.5.177/564a/index.m3u8
+#EXTINF:0,565. SUPER SPORTS LA LIGA
+http://145.239.5.177:80/565/index.m3u8
+#EXTINF:0,566. Supersports Premier League
+http://145.239.5.177/566a/index.m3u8
+#EXTINF:0,568. AZAM SPORT1
+http://145.239.5.177:80/568/index.m3u8
+#EXTINF:0,569. AZAM SPORTS 2
+http://145.239.5.177:80/569/index.m3u8
+#EXTINF:0,570. AZAM SPORTS 3
+http://145.239.5.177:80/570/index.m3u8
+#EXTINF:0,571. L SPORT
+http://178.33.239.54:8080/571/index.m3u8
+#EXTINF:0,700. CANAL+ KIDS
+http://178.33.239.54:8080/700/index.m3u8
+#EXTINF:0,701. DISNEY X
+http://178.33.239.54:8080/701/index.m3u8
+#EXTINF:0,702. DISNEY jr
+http://178.33.239.54:8080/702/index.m3u8
+#EXTINF:0,703. NICKTOON
+http://149.202.74.136:8080/703/index.m3u8
+#EXTINF:0,704. NICK JR
+http://149.202.74.136:8080/704/index.m3u8
+#EXTINF:0,705. NICK
+http://149.202.74.136:8080/705/index.m3u8
+#EXTINF:0,706. KIWI+ AFRICA
+http://37.187.138.41:80/Piwi-plus/index.m3u8
+#EXTINF:0,707. GULLI
+http://178.33.239.54:8080/707/index.m3u8
+#EXTINF:0,708. RTE JR
+http://149.202.74.136:8080/708/index.m3u8
+#EXTINF:0,712. BOOMERANG
+http://178.33.239.54:8080/712/index.m3u8
+#EXTINF:0,713. KIX
+http://149.202.74.136:8080/713/index.m3u8
+#EXTINF:0,717. Cartoonito
+http://178.33.239.54:8080/717/index.m3u8
+#EXTINF:0,807. CNN INTERNATIONAL
+http://149.202.74.136:8080/807/index.m3u8
+#EXTINF:0,808. SKY NEWS
+http://149.202.74.136:8080/808/index.m3u8
